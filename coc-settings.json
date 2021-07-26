@@ -66,6 +66,7 @@
 	"importCost.javascriptExtensions": ["\\.jsx?$"],
 	"importCost.showCalculatingDecoration": true,
 	"importCost.debug": false,
+	"snippets.ultisnips.enable": false,
 	"snippets.ultisnips.directories": [
 		"$HOME/.config/nvim/Ultisnips/",
 		"$HOME/.config/nvim/plugged/vim-snippets/UltiSnips/"
